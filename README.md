@@ -2,7 +2,7 @@
 
 **Alumnos:** Pablo Iván Bárcena  
 **Materia:** Arquitectura y sistemas operativos
- Enlace a video: https://www.youtube.com/watch?v=TzJl33h3yZc
+**Enlace a video:** https://www.youtube.com/watch?v=TzJl33h3yZc
 
 ---
 
