@@ -6,10 +6,6 @@
 
 ---
 
-##  Descripción
-
-Este repositorio contiene el trabajo práctico sobre virtualización y scripting, realizado como parte de la materia Administración de Sistemas.
-
 ### Contenido
 
 - **`/programa/conversor_de_numeros.py`**  
